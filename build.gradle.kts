@@ -36,7 +36,7 @@ zapAddOn {
 
     manifest {
         author.set("Arkhamahn")
-        url.set("https://github.com/h0tak88r/Convert-Type-Convert-All")
+        url.set("https://github.com/ArkhaMahn/converttype")
     }
 }
 
