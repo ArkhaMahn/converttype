@@ -12,6 +12,8 @@ Author: Arkhamahn. Original idea and implementation credit goes to
 [h0tak88r](https://github.com/h0tak88r) and their
 `Convert-Type-Convert-All` Burp Suite extension.
 
+Vibecoded with love 🖤
+
 ## Usage
 
 Select a message (Request/Response tabs, History, Sites or Search) and right
