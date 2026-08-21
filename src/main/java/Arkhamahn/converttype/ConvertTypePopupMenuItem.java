@@ -1,4 +1,4 @@
-package org.zaproxy.addon.converttype;
+package Arkhamahn.converttype;
 
 import java.awt.Component;
 import java.util.List;

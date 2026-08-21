@@ -1,4 +1,4 @@
-package org.zaproxy.addon.converttype;
+package Arkhamahn.converttype;
 
 import java.nio.charset.StandardCharsets;
 import java.security.SecureRandom;

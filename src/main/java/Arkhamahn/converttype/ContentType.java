@@ -1,4 +1,4 @@
-package org.zaproxy.addon.converttype;
+package Arkhamahn.converttype;
 
 /**
  * The supported content types. The {@link #getKey()} value is used as the suffix of the i18n keys

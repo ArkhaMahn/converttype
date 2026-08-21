@@ -1,4 +1,4 @@
-package org.zaproxy.addon.converttype;
+package Arkhamahn.converttype;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

@@ -5,7 +5,7 @@ plugins {
     id("org.zaproxy.add-on") version "0.13.1"
 }
 
-group = "org.zaproxy.addon"
+group = "Arkhamahn"
 version = "1.0.0"
 description =
     "Converts HTTP requests between content types (JSON, XML, SOAP, URL-encoded, multipart form-data, " +

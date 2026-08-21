@@ -1,4 +1,4 @@
-package org.zaproxy.addon.converttype;
+package Arkhamahn.converttype;
 
 import org.parosproxy.paros.Constant;
 import org.parosproxy.paros.extension.ExtensionAdaptor;

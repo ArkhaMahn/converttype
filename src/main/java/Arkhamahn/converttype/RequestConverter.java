@@ -1,4 +1,4 @@
-package org.zaproxy.addon.converttype;
+package Arkhamahn.converttype;
 
 import java.net.URLDecoder;
 import java.net.URLEncoder;

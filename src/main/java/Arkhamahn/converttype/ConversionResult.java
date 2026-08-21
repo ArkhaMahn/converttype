@@ -1,4 +1,4 @@
-package org.zaproxy.addon.converttype;
+package Arkhamahn.converttype;
 
 /**
  * The result of converting a request: the values to apply to the request header, the URI and the

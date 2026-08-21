@@ -1,4 +1,4 @@
-package org.zaproxy.addon.converttype;
+package Arkhamahn.converttype;
 
 import java.io.ByteArrayInputStream;
 import java.io.StringWriter;
